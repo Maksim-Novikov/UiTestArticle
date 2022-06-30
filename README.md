@@ -2,5 +2,5 @@
 
 Тесты:
 
-com.example.uitestarticle.CounterTest
+com.example.uitestarticle.CounterTest  
 com.example.uitestarticle.ListTest
